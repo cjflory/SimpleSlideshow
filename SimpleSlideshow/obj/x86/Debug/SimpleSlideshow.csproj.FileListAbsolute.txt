@@ -1,0 +1,16 @@
+C:\Projects\SimpleSlideshow\SimpleSlideshow\bin\Debug\SimpleSlideshow.exe.config
+C:\Projects\SimpleSlideshow\SimpleSlideshow\bin\Debug\SimpleSlideshow.exe.manifest
+C:\Projects\SimpleSlideshow\SimpleSlideshow\bin\Debug\SimpleSlideshow.application
+C:\Projects\SimpleSlideshow\SimpleSlideshow\bin\Debug\SimpleSlideshow.exe
+C:\Projects\SimpleSlideshow\SimpleSlideshow\bin\Debug\SimpleSlideshow.pdb
+C:\Projects\SimpleSlideshow\SimpleSlideshow\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Projects\SimpleSlideshow\SimpleSlideshow\obj\x86\Debug\SimpleSlideshow.SimpleSlideshow.resources
+C:\Projects\SimpleSlideshow\SimpleSlideshow\obj\x86\Debug\SimpleSlideshow.Properties.Resources.resources
+C:\Projects\SimpleSlideshow\SimpleSlideshow\obj\x86\Debug\SimpleSlideshow.Viewer.resources
+C:\Projects\SimpleSlideshow\SimpleSlideshow\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Projects\SimpleSlideshow\SimpleSlideshow\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Projects\SimpleSlideshow\SimpleSlideshow\obj\x86\Debug\SimpleSlideshow.TrustInfo.xml
+C:\Projects\SimpleSlideshow\SimpleSlideshow\obj\x86\Debug\SimpleSlideshow.exe.manifest
+C:\Projects\SimpleSlideshow\SimpleSlideshow\obj\x86\Debug\SimpleSlideshow.application
+C:\Projects\SimpleSlideshow\SimpleSlideshow\obj\x86\Debug\SimpleSlideshow.exe
+C:\Projects\SimpleSlideshow\SimpleSlideshow\obj\x86\Debug\SimpleSlideshow.pdb
