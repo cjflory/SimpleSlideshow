@@ -3,16 +3,41 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleSlideshow", "SimpleSlideshow\SimpleSlideshow.csproj", "{B521E181-ED16-414D-B61F-3680D9F26099}"
 EndProject
+Project("{6141683F-8A12-4E36-9623-2EB02B2C2303}") = "Installer", "Installer\Installer.isproj", "{D50A2EE0-FB4C-4037-8159-6EFCBE9392C1}"
+	ProjectSection(ProjectDependencies) = postProject
+		{B521E181-ED16-414D-B61F-3680D9F26099} = {B521E181-ED16-414D-B61F-3680D9F26099}
+		{B521E181-ED16-414D-B61F-3680D9F26099} = {B521E181-ED16-414D-B61F-3680D9F26099}
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|x86 = CD_ROM|x86
 		Debug|x86 = Debug|x86
+		DVD-5|x86 = DVD-5|x86
 		Release|x86 = Release|x86
+		SingleImage|x86 = SingleImage|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B521E181-ED16-414D-B61F-3680D9F26099}.CD_ROM|x86.ActiveCfg = Release|x86
+		{B521E181-ED16-414D-B61F-3680D9F26099}.CD_ROM|x86.Build.0 = Release|x86
 		{B521E181-ED16-414D-B61F-3680D9F26099}.Debug|x86.ActiveCfg = Debug|x86
 		{B521E181-ED16-414D-B61F-3680D9F26099}.Debug|x86.Build.0 = Debug|x86
+		{B521E181-ED16-414D-B61F-3680D9F26099}.DVD-5|x86.ActiveCfg = Debug|x86
+		{B521E181-ED16-414D-B61F-3680D9F26099}.DVD-5|x86.Build.0 = Debug|x86
 		{B521E181-ED16-414D-B61F-3680D9F26099}.Release|x86.ActiveCfg = Release|x86
 		{B521E181-ED16-414D-B61F-3680D9F26099}.Release|x86.Build.0 = Release|x86
+		{B521E181-ED16-414D-B61F-3680D9F26099}.SingleImage|x86.ActiveCfg = Release|x86
+		{B521E181-ED16-414D-B61F-3680D9F26099}.SingleImage|x86.Build.0 = Release|x86
+		{D50A2EE0-FB4C-4037-8159-6EFCBE9392C1}.CD_ROM|x86.ActiveCfg = CD_ROM
+		{D50A2EE0-FB4C-4037-8159-6EFCBE9392C1}.CD_ROM|x86.Build.0 = CD_ROM
+		{D50A2EE0-FB4C-4037-8159-6EFCBE9392C1}.Debug|x86.ActiveCfg = DVD-5
+		{D50A2EE0-FB4C-4037-8159-6EFCBE9392C1}.Debug|x86.Build.0 = DVD-5
+		{D50A2EE0-FB4C-4037-8159-6EFCBE9392C1}.DVD-5|x86.ActiveCfg = DVD-5
+		{D50A2EE0-FB4C-4037-8159-6EFCBE9392C1}.DVD-5|x86.Build.0 = DVD-5
+		{D50A2EE0-FB4C-4037-8159-6EFCBE9392C1}.Release|x86.ActiveCfg = SingleImage
+		{D50A2EE0-FB4C-4037-8159-6EFCBE9392C1}.Release|x86.Build.0 = SingleImage
+		{D50A2EE0-FB4C-4037-8159-6EFCBE9392C1}.SingleImage|x86.ActiveCfg = SingleImage
+		{D50A2EE0-FB4C-4037-8159-6EFCBE9392C1}.SingleImage|x86.Build.0 = SingleImage
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
